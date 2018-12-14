@@ -25,7 +25,7 @@ android {
 //            storeFile file('C:/Users/Administrator/Desktop/v2.5.2/debug.keystoree')
             keyAlias 'androiddebugkey'
             keyPassword 'android'
-            storeFile file('/Users/lipeng/Desktop/GitHub/qiqi/debug.keystore')
+            storeFile file('/Users/lipeng/Desktop/GitHub/sevensevenlife/debug.keystore')
             storePassword 'android'
         }
     }
@@ -72,5 +72,4 @@ dependencies {
     // 此处以JPush 3.0.3 版本为例。
     implementation 'cn.jiguang.sdk:jcore:1.1.1'
     // 此处以JCore 1.1.1 版本为例。
-
 }
