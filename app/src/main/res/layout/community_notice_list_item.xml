@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:id="@+id/root_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_click_gray"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/notice_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/community_base_margin"
+            android:textColor="@color/community_notice_time"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/notice_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/community_base_margin"
+            android:layout_toLeftOf="@id/notice_time"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/community_notice_title"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/notice_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/notice_title"
+            android:layout_marginLeft="@dimen/community_base_margin"
+            android:layout_marginRight="@dimen/community_base_margin"
+            android:layout_marginTop="@dimen/community_base_margin"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/community_notice_content"
+            android:textSize="13sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_below="@id/notice_content"
+            android:layout_marginTop="@dimen/community_base_margin"
+            android:background="@color/bt_bg_gray" />
+    </RelativeLayout>
+</layout>

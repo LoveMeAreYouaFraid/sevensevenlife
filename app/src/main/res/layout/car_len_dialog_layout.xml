@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_16">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:gravity="center"
+        android:text="请选择货箱"
+        android:textSize="@dimen/sp_18" />
+
+    <TextView
+        android:id="@+id/one"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:background="@drawable/bg_click_gray"
+        android:gravity="center"
+        android:text="货箱长2.0宽1.8高1.5,载重2吨"
+        android:textSize="@dimen/sp_14" />
+
+
+    <TextView
+        android:id="@+id/two"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:background="@drawable/bg_click_gray"
+        android:gravity="center"
+        android:text="货箱长2.7 宽1.8 高1.5，载重3吨"
+        android:textSize="@dimen/sp_14" />
+
+    <TextView
+        android:id="@+id/three"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:background="@drawable/bg_click_gray"
+        android:gravity="center"
+        android:text="货箱长4.0 宽1.8 高1.5，载重约4吨"
+        android:textSize="@dimen/sp_14" />
+
+    <TextView
+        android:id="@+id/four"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:background="@drawable/bg_click_gray"
+        android:gravity="center"
+        android:text="货箱长5.0 宽2.0  高1.8，载重约6吨"
+        android:textSize="@dimen/sp_14" />
+
+</LinearLayout>

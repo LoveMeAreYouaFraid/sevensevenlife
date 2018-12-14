@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="220dp"
+    android:layout_height="140dp"
+    android:layout_marginBottom="30dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_80"
+        android:background="@drawable/bg_click_half_transparent_gray"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_click_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/sysyl"
+                android:drawablePadding="@dimen/dp_16"
+                android:gravity="center"
+                android:text="邀请有礼"
+                android:layout_marginRight="@dimen/dp_16"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+
+        <include layout="@layout/line_w" />
+
+        <LinearLayout
+            android:id="@+id/two"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_click_gray"
+            android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/dp_16"
+                android:drawableLeft="@drawable/add_friend"
+                android:drawablePadding="@dimen/dp_16"
+                android:gravity="center"
+                android:text="添加好友"
+                android:textColor="@color/white" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_gravity="center"
+        android:background="@drawable/ic_lnverted_triangle" />
+</LinearLayout>

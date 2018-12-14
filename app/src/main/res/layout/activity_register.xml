@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F89A58"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <include
+                android:id="@+id/title"
+                layout="@layout/app_title" />
+
+
+            <!-- 手机注册-->
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="38dp"
+                android:layout_marginRight="38dp"
+                android:layout_marginTop="100dp"
+                android:background="@drawable/bg_red_register_edittext"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/bg_img_red"
+                    android:gravity="left|center"
+                    android:padding="@dimen/dp_10"
+                    android:src="@drawable/ic_phone" />
+
+
+                <EditText
+                    android:id="@+id/phone_num"
+                    android:layout_width="0dip"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:background="#00000000"
+                    android:hint="@string/shoujihao"
+                    android:inputType="number"
+                    android:maxLength="11"
+                    android:paddingLeft="@dimen/dp_8"
+                    android:textColor="#ffffff"
+                    android:textColorHint="#90ffffff" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="38dp"
+                android:layout_marginRight="38dp"
+                android:layout_marginTop="24dip"
+                android:orientation="horizontal">
+
+
+                <EditText
+                    android:id="@+id/code"
+                    android:layout_width="0dip"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_red_register_edittext"
+                    android:hint="@string/yanzhengma"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:paddingLeft="@dimen/dp_8"
+                    android:textColor="#ffffff"
+                    android:textColorHint="#90ffffff" />
+
+                <TextView
+                    android:id="@+id/send_code"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dp_16"
+                    android:background="@drawable/bg_blue_register_bt"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/dp_16"
+                    android:paddingRight="@dimen/dp_16"
+                    android:text="短信验证码"
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <!-- 登录密码 -->
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="38dp"
+                android:layout_marginRight="38dp"
+                android:layout_marginTop="20dip"
+                android:background="@drawable/bg_red_register_edittext"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/bg_img_red"
+                    android:gravity="left|center"
+                    android:padding="@dimen/dp_10"
+                    android:src="@drawable/ic_pass_word" />
+
+
+                <EditText
+                    android:id="@+id/pass_word"
+                    android:layout_width="0dip"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="4dip"
+                    android:layout_weight="1"
+                    android:background="#00000000"
+                    android:gravity="left|center"
+                    android:hint="@string/mima"
+                    android:inputType="textPassword"
+                    android:textColor="#ffffff"
+                    android:textColorHint="#90ffffff" />
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/comment"
+                android:layout_width="200dp"
+                android:layout_height="52dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/bg_red_register_bt"
+                android:gravity="center"
+                android:text="提交"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_16"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/agreement"
+                android:layout_width="wrap_content"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/dp_44"
+                android:background="@drawable/bg_click_gray"
+                android:gravity="center"
+                android:onClick="goFuWuXieYi"
+                android:text="@string/fwxy"
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</layout>

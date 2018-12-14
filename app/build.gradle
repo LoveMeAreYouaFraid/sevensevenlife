@@ -1,0 +1,76 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    dataBinding {
+        enabled = true
+    }
+
+    defaultConfig {
+        applicationId 'com.example.youxiangshenghuo'
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionName '2.7.0'
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME : "com.example.youxiangshenghuo",
+                JPUSH_APPKEY : "58d1fa233eae2525f8001ac2", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL : "Channel ID", //暂时填写默认值即可.
+        ]
+//        proguardFile 'C:\\Users\\Administrator\\.android\\debug.keystore'
+    }
+    signingConfigs {
+        debug {
+//            storeFile file('C:/Users/Administrator/Desktop/v2.5.2/debug.keystoree')
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('/Users/lipeng/Desktop/GitHub/qiqi/debug.keystore')
+            storePassword 'android'
+        }
+    }
+
+
+    buildTypes {
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+                    'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation files('libs/TencentLocationSDK_v5.0.1_r251203_170116_1729.jar')
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+    implementation 'com.squareup.okio:okio:1.14.0'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+    implementation 'com.github.bumptech.glide:okhttp3-integration:1.4.0@aar'
+    implementation 'jp.wasabeef:glide-transformations:2.0.1'
+    // 加载网络图片
+    implementation 'com.huxq17.xrefreshview:xrefreshview:3.5.6'
+    //下拉刷新
+    implementation 'com.android.support.constraint:constraint-layout:2.0.0-alpha2'
+    //最新相对布局
+    implementation 'com.google.zxing:core:3.3.0'
+    //二维码解析
+    implementation 'com.journeyapps:zxing-android-embedded:3.3.0@aar'
+    //二维码解析界面
+    implementation 'com.umeng.analytics:analytics:6.1.4'
+    implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:1.1.6'
+    implementation files('libs/alipaySdk-20170309.jar')
+    implementation 'cn.jiguang.sdk:jpush:3.0.3'
+    // 此处以JPush 3.0.3 版本为例。
+    implementation 'cn.jiguang.sdk:jcore:1.1.1'
+    // 此处以JCore 1.1.1 版本为例。
+
+}

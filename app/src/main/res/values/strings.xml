@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">优享七七生活</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="current_network_error">当前网络不稳定</string>
+
+
+    <string name="shouye">首页</string>
+    <string name="dingdan">订单</string>
+    <string name="faxian">发现</string>
+    <string name="sys">      </string>
+    <string name="wode">我的</string>
+    <string name="gerenzhongxin">个人中心</string>
+
+
+    <string name="dingwei">定位</string>
+    <string name="xinxi">信息</string>
+
+
+    <string name="paotui">跑腿代办</string>
+    <string name="yunshu">搬家运输</string>
+    <string name="kaisuo">开锁换锁</string>
+    <string name="baomu">保姆月嫂</string>
+    <string name="weixiu">家电维修</string>
+    <string name="qingjie">清洁保洁</string>
+    <string name="shutong">管道疏通</string>
+    <string name="gengduo">更多</string>
+
+
+    <string name="changyong">常用地址</string>
+    <string name="wodexiaoqu">我的小区</string>
+    <string name="youli">邀请有礼</string>
+    <string name="xiaoxizhongxin">消息中心</string>
+    <string name="yijian">意见反馈</string>
+    <string name="shezhi">设置</string>
+    <string name="ruzhu">我要入驻</string>
+
+
+    <string name="quanbu">全部</string>
+    <string name="zhixinzhong">执行中</string>
+    <string name="daifukuai">待付款</string>
+    <string name="daipingjia">待评价</string>
+    <string name="yiwancheng">已完成</string>
+
+    <string name="shoujihao">手机号</string>
+    <string name="mima">密码</string>
+    <string name="zhuce">注册</string>
+    <string name="yanzhengma">验证码</string>
+    <string name="querenmima">确认密码</string>
+
+    <string name="fujinweizhi">附近位置</string>
+    <string name="dangqianweizhi">当前位置</string>
+
+    <string name="kaishichazhao">开始查找</string>
+    <string name="qsrcznr">请输入查找内容</string>
+
+    <string name="paotui_info">详情页</string>
+
+    <string name="dingdan_info">订单详情</string>
+    <string name="my_info">账户信息</string>
+
+
+    <string name="grzl">个人资料</string>
+
+    <string name="touxiang">头像</string>
+    <string name="xingming">姓名</string>
+    <string name="shouji">手机</string>
+    <string name="aqsz">安全设置</string>
+    <string name="dlmm">登录密码</string>
+
+
+    <string name="queren">确认</string>
+
+
+    <string name="wrms">勿扰模式</string>
+    <string name="tongyong">通用</string>
+    <string name="guanyu">关于优享</string>
+    <string name="tuichu">退出</string>
+
+
+    <string name="faLv">法律条款</string>
+
+
+    <string name="qb_all">全部</string>
+    <string name="ptrz">平台认证</string>
+    <string name="wrzgr">未认证个人</string>
+
+    <string name="kx">空闲</string>
+    <string name="fwz">服务中</string>
+
+
+    <string name="fwxy">注册即视为同意服务协议</string>
+    <string name="wjmm">忘记密码</string>
+    <string name="zcsjh">注册手机号</string>
+
+    <string name="sryzm">输入验证码</string>
+
+    <string name="srxmm">输入新密码</string>
+    <string name="qrxmm">确认新密码</string>
+
+    <string name="alipay">支付宝支付</string>
+
+
+    <string name="fasong">发送</string>
+
+    <string name="pingfen">评分</string>
+
+    <string name="sjhmgsbzq">手机号码格式不正确</string>
+    <string name="no_data">没有找到符合条件的</string>
+
+    <string name="qidai">优享七七生活极致创意正在开发，敬请期待</string>
+
+    <string name="msg_default_status">将二维码放入框内，即可自动扫描</string>
+
+    <string name="contact_phone_content">师傅您好，您的客人正焦急等待您前来服务，请您加快速度，劳烦咯！</string>
+
+
+    <string name="about_our">关于优享七七生活</string>
+    <string name="about_our_content">\t\t优享七七生活——足不出户下单叫跑腿，搬家、家庭保洁、急开锁、维修家电、管道疏通，享受优质家庭生活服务，我们致力于成为您的家庭生活服务管家。
+        \n\t\t同时为用户提供公共自行车租车服务，常德市公共自行车，扫码骑走，快捷便利。更多服务，敬请期待！
+    </string>
+    <string name="about_our_version">版本信息：V2.0.8</string>
+    <string name="about_our_business">常德市七七七运输服务有限公司</string>
+    <string name="about_our_buttom"> 777 Transport Service Co., Ltd</string>
+
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unsupported">不支持错误</string>
+    <string name="errcode_unknown"><string name="download_url_mm">下载地址:\n &lt;a href=\"http://42.96.192.186/upload/apk/readfishing.apk#weixin.qq.com\"&gt;点击我下载..&lt;/a&gt;\n</string></string>
+
+    <string name="community_tab_business">助理</string>
+    <string name="community_tab_authority">盒子</string>
+    <string name="community_bbs_title">发声</string>
+    <string name="community_bbs_introduce">发出你的声音</string>
+    <string name="community_vote_title">投票</string>
+    <string name="community_vote_introduce">公平民主的小区决策</string>
+    <string name="community_security_title">小区保安</string>
+    <string name="community_security_introduce">紧急情况？联系身边的保安</string>
+    <string name="community_security_data_format">(正在服务%1$d)</string>
+    <string name="community_repair_title">物业报修</string>
+    <string name="community_repair_introduce">水电气问题？来报修</string>
+    <string name="community_repair_data_format">(已处理%1$d)</string>
+    <string name="community_suggestion_title">意见箱</string>
+    <string name="community_suggestion_introduce">小区建设，由你建言</string>
+    <string name="community_suggestion_data_format">(已接收%1$d)</string>
+    <string name="community_owner_rule_title">业主权益</string>
+    <string name="community_owner_rule_introduce">也许你还不知道，来看看</string>
+    <string name="community_tenant_rule_title">租户权益</string>
+    <string name="community_tenant_rule_introduce">租售同权？了解一下</string>
+    <string name="community_join_wechat_title">加入群聊</string>
+    <string name="community_join_wechat_introduce">加入微信群讨论一下</string>
+    <string name="community_add_notice">发布公告</string>
+    <string name="community_manage_notice">公告管理</string>
+    <string name="community_edit_info">编辑资料</string>
+    <string name="community_add_bbs">发表声音</string>
+    <string name="community_add_bbs_data">(被禁言)</string>
+    <string name="community_add_vote">发起投票</string>
+    <string name="community_add_vote_data">(需认证为业主)</string>
+    <string name="community_my_bbs">我的声音</string>
+    <string name="community_base_data_format">(%1$d)</string>
+    <string name="community_my_vote">我的投票</string>
+    <string name="community_my_vote_data_format">发起(%1$d) 参与(%2$d)</string>
+    <string name="community_manage">小区管理</string>
+    <string name="community_manage_data_format">(已加入%1$d)</string>
+    <string name="community_authority_data_format">认证状态：%1$s</string>
+    <string name="community_authentication_title">业主认证</string>
+    <string name="community_authentication_name">姓名</string>
+    <string name="community_authentication_identify">身份证</string>
+    <string name="community_authentication_phone">手机</string>
+    <string name="community_authentication_build">楼栋</string>
+    <string name="community_authentication_unit">单元</string>
+    <string name="community_authentication_house">门牌号</string>
+    <string name="community_authentication_upload">房产证或租房合同</string>
+
+    <string name="face_app_id">58606914</string>
+</resources>

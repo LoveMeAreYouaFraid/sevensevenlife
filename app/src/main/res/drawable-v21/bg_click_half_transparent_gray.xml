@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/black"><!--点击之后的颜色 必须要-->
+    <item>
+
+        <shape>
+            <solid android:color="@drawable/half_transparent" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+</ripple>

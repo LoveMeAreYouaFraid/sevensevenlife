@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/red_two" android:state_pressed="true">
+
+        <corners android:radius="2dp" />
+        <!-- 填充-->
+        <!-- 描边 -->
+        <stroke android:width="0.6dp" android:color="#11000000" />
+    </item>
+    <item android:drawable="@color/red_three">
+        <corners android:radius="2dp" />
+        <!-- 填充-->
+        <!-- 描边 -->
+        <stroke android:width="0.6dp" android:color="#11000000" />
+    </item>
+</selector>

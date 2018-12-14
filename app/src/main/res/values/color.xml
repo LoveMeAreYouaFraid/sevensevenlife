@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 扫码start -->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#cb000000</color>
+    <color name="viewfinder_frame">#ff4EEE94</color><!-- #ff0000ff -->
+    <!-- 扫码end -->
+
+
+    <item name="heise" type="drawable">#000000</item>
+    <item name="huise" type="drawable">#50F0F0F0</item>
+    <item name="style_color2" type="drawable">#F89959</item>
+    <drawable name="green">#ff00ff00</drawable>
+    <drawable name="drawable_transparent">#00000000</drawable>
+    <drawable name="half_transparent">#aaeeeeee</drawable>
+    <color name="half_transparent">#aaeeeeee</color>
+    <color name="red_two">#EB5F62</color>
+    <color name="green_two">#81E9A7</color>
+    <color name="red_three">#EC9153</color>
+
+    <color name="popup_main_background">#b0000000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#33000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="white">#ffffff</color>
+    <color name="hui">#f5f5f5</color>
+    <color name="ahui">#55000000</color>
+
+    <color name="bt_bg_gray">#B5C4C7</color>
+    <color name="bt_bg_red">#F7C481</color>
+
+
+    <drawable name="touming">#00000000</drawable>
+
+
+    <color name="yellow">#D9D919</color>
+    <color name="divide_line">#f7f7f7</color>
+    <color name="style_color">#F89959</color>
+    <color name="style_color_main">#8E8E8E</color>
+    <color name="green">#4CD1AA</color>
+    <color name="green_ck">#45BA97</color>
+    <color name="red">#F89959</color>
+    <color name="app_blue">#4ACAFF</color>
+    <color name="ck_blue">#4AaaFF</color>
+    <color name="color_717171">#474747</color>
+    <color name="color_111111">#6F6F6F</color>
+    <color name="green_three">#2FCFA9</color>
+    <color name="c0c0c0">#c0c0c0</color>
+
+
+    <color name="color_47_47_47">#2F2F2F</color>
+    <color name="txt_black">#818282</color>
+    <color name="user_bg">#A27B48</color>
+
+    <color name="chun_red">#ff0000</color>
+    <color name="chun_yellow">#00ff00</color>
+    <color name="chun_blue">#0000ff</color>
+
+    <color name="left_layout_txt">#212121</color>
+
+
+    <!--<color name="home_menu_one">#FE8181</color>-->
+    <!--<color name="home_menu_two">#94EED6</color>-->
+    <!--<color name="home_menu_three">#93D1EB</color>-->
+    <!--<color name="home_menu_four">#E5A6EB</color>-->
+    <!--<color name="home_menu_five">#C8E88A</color>-->
+    <!--<color name="home_menu_six">#FFEF65</color>-->
+    <!--<color name="home_menu_seven">#A6A7F4</color>-->
+    <!--<color name="home_menu_eight">#FFBA83</color>-->
+
+    <color name="community_title">#474747</color>
+    <color name="community_introduce">#C0C0C0</color>
+    <color name="community_notice_title">#474747</color>
+    <color name="community_notice_time">#C0C0C0</color>
+    <color name="community_notice_content">#6F6F6F</color>
+    <color name="community_authority_btn">#2EB29E</color>
+    <color name="community_message_num">#FF4848</color>
+    <color name="community_authority_data">#6F6F6F</color>
+
+</resources>
