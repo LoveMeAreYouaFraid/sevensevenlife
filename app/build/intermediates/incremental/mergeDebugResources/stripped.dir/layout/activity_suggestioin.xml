@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="vertical" android:tag="layout/activity_suggestioin_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="10dip"
+            android:text="意见反馈:"
+            android:textColor="#000000"
+            android:textSize="16dp" />
+
+        <EditText
+            android:id="@+id/jianyi"
+            android:layout_width="fill_parent"
+            android:layout_height="120dip"
+            android:layout_gravity="top|left"
+            android:layout_marginBottom="8dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="12dip"
+            android:gravity="top|left"
+            android:hint="您给出建议，我们来采纳"
+            android:padding="@dimen/dp_10"
+            android:textColor="#000000"
+            android:textColorHint="#70000000"
+            android:textSize="14dp" />
+
+    </LinearLayout>
+         

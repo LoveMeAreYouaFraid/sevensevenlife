@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/lnvitation_courtesy_activity_layout_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:background="@color/style_color"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/img_back"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_click_gray"
+                android:padding="@dimen/dp_10"
+                android:src="@drawable/ic_back_white" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/right_button"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/bg_click_gray"
+                android:padding="@dimen/dp_10"
+                android:src="@drawable/ic_share_white_24dp" />
+        </LinearLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/root_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/dp_30"
+            android:background="@mipmap/lnvitation_courtesy_bg"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/qq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/bg_click_gray"
+                android:padding="10dp"
+                android:src="@mipmap/qq"
+                android:visibility="gone"
+                app:layout_constraintBottom_toTopOf="@+id/activity_detail"
+                app:layout_constraintLeft_toLeftOf="@id/root_view" />
+
+            <ImageView
+                android:id="@+id/wx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="28dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_click_gray"
+                android:padding="10dp"
+                android:src="@mipmap/wx"
+                android:visibility="gone"
+                app:layout_constraintBottom_toTopOf="@+id/activity_detail"
+                app:layout_constraintRight_toRightOf="@id/root_view"
+                app:layout_constraintTop_toTopOf="@+id/qq" />
+
+            <TextView
+                android:id="@+id/activity_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="28dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/bg_click_gray"
+                android:padding="@dimen/dp_8"
+                android:text="活动详情"
+                android:textColor="@color/white"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="@id/root_view"
+                app:layout_constraintLeft_toLeftOf="@id/root_view"
+                app:layout_constraintRight_toRightOf="@id/root_view" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="50dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="0dp"
+                android:padding="@dimen/dp_8"
+                android:text="扫描二维码下载官方app"
+                android:textColor="@color/txt_black"
+                app:layout_constraintBottom_toBottomOf="@id/root_view"
+                app:layout_constraintLeft_toLeftOf="@id/root_view"
+                app:layout_constraintRight_toRightOf="@id/root_view"
+                app:layout_constraintTop_toTopOf="@id/root_view" />
+        </android.support.constraint.ConstraintLayout>
+
+    </LinearLayout>
+         

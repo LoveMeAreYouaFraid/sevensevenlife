@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <RelativeLayout
+        android:id="@+id/root_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00000000" android:tag="layout/home_message_dialog_layout_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ImageView
+            android:id="@+id/img_x"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/linearLayout"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:padding="@dimen/dp_4"
+            android:src="@drawable/x" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:minHeight="260dp"
+            android:minWidth="200dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_img"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/dp_50"
+                android:minWidth="@dimen/dp_50" />
+
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:maxLines="1"
+                android:paddingLeft="@dimen/dp_16"
+                android:paddingRight="@dimen/dp_16"
+                android:paddingTop="@dimen/dp_16"
+                android:textColor="@color/app_blue"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_context"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dp_16"
+                android:background="@drawable/bg_home_dialog_botton_white"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:padding="@dimen/dp_16"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+         

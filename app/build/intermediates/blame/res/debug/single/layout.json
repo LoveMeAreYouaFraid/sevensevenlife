@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vote_list_item_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/vote_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bbs_comment_list_item_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/bbs_comment_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_paotui_info_bottom.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_paotui_info_bottom.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vote_detail_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/vote_detail_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/lnvitation_courtesy_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/lnvitation_courtesy_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_edittext_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_edittext_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/find_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/find_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_my_info.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_my_info.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_dialog_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/list_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/car_rental_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/car_rental_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_paotui_info.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_paotui_info.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_paotui_info_center.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_paotui_info_center.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_aboutour.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_aboutour.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/up_repair_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/up_repair_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_community_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_community_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_authority_fragment_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_authority_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_msg_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/app_msg_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_activity.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/list_activity.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/balance_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/balance_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_more.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_more.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/advertisement_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/advertisement_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_title.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/app_title.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comment_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_buttons_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/home_buttons_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcom.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_welcom.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_shoucang.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_shoucang.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/circle_of_friends_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/circle_of_friends_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dingdan_info.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_dingdan_info.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/user_fragment.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/user_fragment.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/coupon_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/coupon_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/msg_details_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/msg_details_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_notice_details_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_notice_details_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_paotui_info_top.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_paotui_info_top.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_community_list_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_community_list_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/location_again_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/location_again_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cdyee_message_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/cdyee_message_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/zxing_capture.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/image_view_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/image_view_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/up_img_list_item_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/up_img_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/staff_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/staff_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dingdan_info_view_bottom.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/dingdan_info_view_bottom.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dingdan_info_view_center.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/dingdan_info_view_center.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/img_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/img_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/msg_list_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/msg_list_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_message_dialog_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/home_message_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_business_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/home_business_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/collect_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/collect_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/spinner_text_view_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/spinner_text_view_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/contacts_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/contacts_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/post_activity.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/post_activity.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_home_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_home_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_webview.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_home_home_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_home_home_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bind_card_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/bind_card_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_msg_activity.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/app_msg_activity.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bbs_item_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/bbs_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/seven_service_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/seven_service_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/seven_service_activity.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/seven_service_activity.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/seven_service_detail_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/seven_service_detail_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_yuyue.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_yuyue.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_cancleorder.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_cancleorder.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_suggestioin.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_suggestioin.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dynamic_fragment_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/dynamic_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_home_home_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_home_home_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vote_fragment_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/vote_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_notice_list_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_notice_list_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_fragment_view.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/order_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_forgetpassword.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_forgetpassword.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/other_community_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/other_community_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/find_fragment.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/find_fragment.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_youli.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_youli.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/order_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fault_repair_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/fault_repair_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_info.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/item_info.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/pay_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/pay_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_type_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/order_type_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comprehensive_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/comprehensive_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recharge_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/recharge_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/leaving_message_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/leaving_message_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_home_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_home_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_image.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/dialog_image.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_home_activity_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/my_home_activity_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/msg_list_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/msg_list_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/other_community_list_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/other_community_list_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bicycle_home_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/bicycle_home_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_pingfen_info.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_pingfen_info.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/comment_list_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/comment_list_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_yuyue_bottom.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_yuyue_bottom.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_button_fragment_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/home_button_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_fragment_view.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/home_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_business_fragment_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_business_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/seven_service_dialog_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/seven_service_dialog_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_notice_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_notice_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bbs_details_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/bbs_details_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/lose_car_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/lose_car_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/list_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_shezhi.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_shezhi.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_lp_main.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/layout_lp_main.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/community_authentication_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/community_authentication_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/lp_web_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/lp_web_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/riding_ranking_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/riding_ranking_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_yuyue_top.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_yuyue_top.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/add_vote_list_item.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/add_vote_list_item.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/riding_ranking_activity_layout.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/riding_ranking_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/res/layout/activity_login.xml"
+    }
+]

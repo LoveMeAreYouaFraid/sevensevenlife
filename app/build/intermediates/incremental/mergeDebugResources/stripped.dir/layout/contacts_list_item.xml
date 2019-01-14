@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/contacts_list_item_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/tv_word"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#51CC99"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/dp_16"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_14" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#33f5f5f5" />
+
+        <LinearLayout
+            android:id="@+id/rootView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_click_gray"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/dp_10"
+            android:paddingLeft="@dimen/dp_16"
+            android:paddingTop="@dimen/dp_10">
+
+            <com.sevensevenlife.view.custumview.CircleImageView
+                android:id="@+id/user_head_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="16dp"
+                android:minHeight="60dp"
+                android:minWidth="60dp"
+                android:src="@drawable/touxiang"
+                app:border_color="#ffffff"
+                app:border_width="2dp" />
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/dp_16"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:id="@+id/call"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:padding="@dimen/dp_10"
+                android:src="@drawable/call" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+         

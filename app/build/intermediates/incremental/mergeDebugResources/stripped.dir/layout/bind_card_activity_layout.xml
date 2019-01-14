@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hui"
+        android:orientation="vertical" android:tag="layout/bind_card_activity_layout_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+        <!--  <include
+              android:id="@+id/my_ed_phone"
+              layout="@layout/my_edittext_layout" />-->
+
+        <include
+            android:id="@+id/my_ed_name"
+            layout="@layout/my_edittext_layout" />
+
+        <include
+            android:id="@+id/my_ed_id"
+            layout="@layout/my_edittext_layout" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dp_16"
+            android:text="我们会保护您的隐私，实名信息将用作挂失凭证"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/tv_user_agreement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_50"
+            android:gravity="center"
+            android:textColor="@color/style_color" />
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:layout_marginLeft="@dimen/dp_16"
+            android:layout_marginRight="@dimen/dp_16"
+            android:layout_marginTop="@dimen/dp_50"
+            android:background="@drawable/bg_green_fillet"
+            android:text="完成"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+         

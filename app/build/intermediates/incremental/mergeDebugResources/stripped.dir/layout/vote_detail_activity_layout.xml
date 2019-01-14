@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/vote_detail_activity_layout_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+
+        <TextView
+            android:id="@+id/vote_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp_16"
+            android:textColor="@color/style_color_main" />
+
+        <TextView
+            android:id="@+id/vote_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_16"
+            android:layout_marginRight="@dimen/dp_16"
+            android:text="近期业主反应大妈在小区广场舞，严重扰民"
+            android:textColor="@color/color_717171" />
+
+        <TextView
+            android:id="@+id/vote_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp_16"
+            android:text="近期业主反应大妈在小区广场舞，严重扰民"
+            android:textColor="@color/color_717171" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp_16"
+            android:text="投票选项"
+            android:textColor="@color/color_717171" />
+
+
+        <CheckBox
+            android:id="@+id/one"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="赞成"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/two"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="反对"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/three"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="弃权"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/four"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="弃权"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/five"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="弃权"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/six"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:button="@null"
+            android:drawableRight="@drawable/radio"
+            android:paddingLeft="30dp"
+            android:paddingRight="@dimen/dp_8"
+            android:text="弃权"
+            android:textColor="@color/color_717171"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/vote_bt"
+            android:layout_width="80dp"
+            android:layout_height="@dimen/dp_50"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dp_50"
+            android:background="@drawable/bg_green_fillet"
+            android:gravity="center"
+            android:text="投票"
+            android:textColor="@color/white" />
+    </LinearLayout>
+         

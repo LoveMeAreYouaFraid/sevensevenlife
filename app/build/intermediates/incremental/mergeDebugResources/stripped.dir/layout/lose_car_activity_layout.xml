@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hui"
+        android:orientation="vertical" android:tag="layout/lose_car_activity_layout_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+        <ImageView
+            android:id="@+id/hoder_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_40"
+            android:layout_marginLeft="@dimen/dp_8"
+            android:layout_marginTop="@dimen/dp_8"
+            android:layout_marginRight="@dimen/dp_8"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/get_yes"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/red"
+                android:gravity="center"
+                android:paddingRight="@dimen/dp_16"
+                android:text="已找回"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:id="@+id/get_no"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dp_16"
+                android:text="未找回" />
+
+        </LinearLayout>
+
+        <com.andview.refreshview.XRefreshView
+            android:id="@+id/x_refresh_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/hui" />
+        </com.andview.refreshview.XRefreshView>
+
+
+    </LinearLayout>
+         

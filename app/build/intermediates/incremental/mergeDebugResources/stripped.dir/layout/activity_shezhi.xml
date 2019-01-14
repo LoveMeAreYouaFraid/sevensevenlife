@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F0F0F0"
+        android:orientation="vertical" android:tag="layout/activity_shezhi_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#ffffff"
+            android:orientation="vertical" android:tag="binding_1">
+
+            <TextView
+                android:id="@+id/one"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/dp_44"
+                android:background="@drawable/bg_white_fillet"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/dp_16"
+                android:text="@string/guanyu" />
+
+            <include layout="@layout/line_w" />
+
+            <TextView
+                android:id="@+id/two"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/dp_44"
+                android:background="@drawable/bg_white_fillet"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/dp_16"
+                android:text="@string/faLv" />
+
+            <include layout="@layout/line_w" />
+
+            <TextView
+                android:id="@+id/tv_clear_cache"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/dp_44"
+                android:background="@drawable/bg_white_fillet"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/dp_16"
+                android:text="清除缓存" />
+
+            <include layout="@layout/line_w" />
+
+            <TextView
+                android:id="@+id/exit"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/dp_44"
+                android:background="@drawable/bg_white_fillet"
+                android:gravity="center|left"
+                android:paddingLeft="@dimen/dp_16"
+                android:text="@string/tuichu" />
+        </LinearLayout>
+
+    </LinearLayout>
+         

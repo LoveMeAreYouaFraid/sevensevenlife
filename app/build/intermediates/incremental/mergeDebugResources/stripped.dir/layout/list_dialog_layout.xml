@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                    
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:orientation="vertical" android:tag="layout/list_dialog_layout_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ndroid="http://schemas.android.com/tools">
+
+        <TextView
+            android:id="@+id/dialog_detail"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left"
+            android:maxLines="1"
+            android:maxWidth="260dp"
+            android:singleLine="true"
+            android:textColor="@color/color_47_47_47"
+            android:textSize="@dimen/sp_12"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/dialog_text"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left"
+            android:maxLines="1"
+            android:maxWidth="150dp"
+            android:singleLine="true" />
+
+
+    </LinearLayout>
+         

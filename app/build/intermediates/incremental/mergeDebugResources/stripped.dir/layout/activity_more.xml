@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#F0F0F0"
+        android:orientation="vertical" android:tag="layout/activity_more_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <include
+            android:id="@+id/title"
+            layout="@layout/app_title" />
+
+
+        <ScrollView
+            android:id="@+id/two"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fadingEdge="none">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="120dip"
+                    android:layout_gravity="center_horizontal"
+                    android:background="#ffffff"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <Button
+                        style="@style/myinfo_item_button"
+                        android:layout_height="120dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/sdaz" />
+
+                    <View
+                        android:layout_width="0.5dp"
+                        android:layout_height="fill_parent"
+                        android:background="#CACDD1" />
+
+                    <Button
+                        style="@style/myinfo_item_button"
+                        android:layout_height="120dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/hwys" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#CACDD1" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="120dip"
+                    android:layout_gravity="center_horizontal"
+                    android:background="#ffffff"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <Button
+                        style="@style/myinfo_item_button"
+                        android:layout_height="120dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/jdqj" />
+
+                    <View
+                        android:layout_width="0.5dp"
+                        android:layout_height="fill_parent"
+                        android:background="#CACDD1" />
+
+                    <Button
+                        style="@style/myinfo_item_button"
+                        android:layout_height="120dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/fjhs" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#CACDD1" />
+            </LinearLayout>
+        </ScrollView>
+
+
+        <LinearLayout
+            android:id="@+id/three"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#ffffff"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#CACDD1" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:background="#ffffff"
+                android:gravity="right"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginTop="12dip"
+                    android:layout_weight="1"
+                    android:text="以上项目，请按拨号键与客服详谈。"
+                    android:textColor="#90000000" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:background="@drawable/bg_red_fillet"
+                    android:contentDescription="@string/app_name"
+                    android:onClick="callService"
+                    android:paddingLeft="@dimen/dp_20"
+                    android:paddingRight="@dimen/dp_20"
+                    android:src="@drawable/ic_headset" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+         

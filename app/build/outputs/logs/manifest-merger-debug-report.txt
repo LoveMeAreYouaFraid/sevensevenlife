@@ -1,0 +1,1007 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/065af004be434fbc459e6100c1b7d349/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/6a862c6f985eca2d861a597c1a0fa96e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/812167aa33997922a7ad44e5f3a52cbd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/ba000bd13f64d0289b0129f81495ea2b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ba508de4ebc5be4531a6c3e432ab3f15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5e28b62925a72120f244df77a14a2c6/AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.1.aar/7fed70b0e824f9f6948802c48f5bae01/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.5.6] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/xrefreshview-3.5.6.aar/d3cfc87e9d127dd2d96125020346ec60/AndroidManifest.xml:2:1-12:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:17:1-55:12
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:2:1-130:12
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jcore-1.1.1.aar/e1b22642c7748c23bbf1bf855c261051/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/397d2ad85d1a69a29eee2bfe1ac4207e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e77cf3caedffc43fd5530e6aa14a6996/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/10ab219565910559f36cd89c650b9431/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/97148cf5ea91f230bf8e8da73c3e27a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dd2b1c12ec14bb87ee607ee70c3347c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/71ac7e585a6a5ccfb8a3bc7a38af0bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8932b8895e2b50658572b843c1f3182e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da626f2a071e99a023324903a4e1ed5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9603d2b1acb503e0342cf22bd33c051a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a8610ba2824ed52a557be645d4767cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a2116792cc0a4a69a2866bccb9bdbde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ec960d6803939e7310a71c6faabcc45e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2898a7f32c6eb9f51a92b65eb911c05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b52284d7d8350cd8733e3becef0c9c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1df34c6aab034336dc0f86cebfceb3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/71f2d9d2bbc1e649fb19e757891dd2b5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c6ef573d04e288d6d5f5312ee00712b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dfda95da83f2f9dc8e3381bb39eee802/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6fdb1145622912f4f081038c866a30ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98c3224c99183200e326b46c2d27f64f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/96a03fba8fcbff88a707f2ee1aeacde8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c334d85f3c55d5636ebf50a862bec61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd6baf104d31af5acf3e5e49ebd547da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3295fbad3285842660bf0d53828747ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9903815a914c5c636d14e00598dcc39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6c20e066de2e6edca5796d2836c423c9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+	package
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:1-337:12
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:7:5-288:19
+MERGED from [com.android.support:design:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/812167aa33997922a7ad44e5f3a52cbd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/812167aa33997922a7ad44e5f3a52cbd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/ba000bd13f64d0289b0129f81495ea2b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/ba000bd13f64d0289b0129f81495ea2b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:45:5-53:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:37:5-128:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:37:5-128:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jcore-1.1.1.aar/e1b22642c7748c23bbf1bf855c261051/AndroidManifest.xml:11:5-12:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jcore-1.1.1.aar/e1b22642c7748c23bbf1bf855c261051/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/71f2d9d2bbc1e649fb19e757891dd2b5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/71f2d9d2bbc1e649fb19e757891dd2b5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:8:9-62
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:15:13-63
+	android:exported
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:18:13-20:54
+	android:resource
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:20:17-51
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:19:17-67
+service#cn.jpush.android.service.PushService
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:22:9-25:36
+REJECTED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:66:9-77:19
+	tools:node
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:25:13-33
+	android:process
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:23:13-64
+meta-data#TencentMapSDK
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:28:9-30:67
+	android:value
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:30:13-64
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:29:13-41
+activity#com.sevensevenlife.view.Mian.WelcomeActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:32:9-42:20
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:34:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:40:27-74
+receiver#com.example.youxiangshenghuo.AppRegister
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:43:9-49:20
+	android:permission
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:45:13-71
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:44:13-40
+intent-filter#action:name:com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:46:13-48:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:47:17-100
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:47:25-97
+activity#com.sevensevenlife.view.Home.MyHome.UpRepairActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:52:13-80
+activity#com.sevensevenlife.view.Home.MyHome.CommuntySuggestioinActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:55:13-91
+activity#com.sevensevenlife.view.custumview.PushWebActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:58:13-78
+activity#com.sevensevenlife.view.Find.CdyeeMessageListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:61:13-81
+activity#com.sevensevenlife.view.Find.LeavingMessageActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:64:13-79
+activity#com.sevensevenlife.view.Order.PayActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:68:13-69
+activity#com.sevensevenlife.view.Home.NewsActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:72:13-69
+activity#com.example.youxiangshenghuo.wxapi.WXEntryActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:75:9-59
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:75:19-56
+activity#com.sevensevenlife.view.Home.MyHome.StaffListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:78:13-81
+activity#com.sevensevenlife.view.Home.MyHome.VoteDetailActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:81:13-82
+activity#com.sevensevenlife.view.Home.MyHome.VoteListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:83:9-85:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:84:13-80
+activity#com.sevensevenlife.view.Home.MyHome.MsgDetailsActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:87:13-82
+activity#com.sevensevenlife.view.Home.MyHome.MsgActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:90:13-75
+activity#com.sevensevenlife.view.Home.MyHome.HomeBusinessActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:92:9-94:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:93:13-84
+activity#com.sevensevenlife.view.Home.MyHome.MyHomeActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:95:9-97:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:96:13-78
+activity#com.sevensevenlife.view.Home.MyHome.MyHomeHomeActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:98:9-100:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:99:13-82
+activity#com.sevensevenlife.view.User.CouponListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:102:13-75
+activity#com.sevensevenlife.view.Home.SevenServiceDetailActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:104:9-106:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:105:13-83
+activity#com.sevensevenlife.view.Find.RidingRankingActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:108:13-78
+activity#com.sevensevenlife.view.Find.ComprehensiveActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:111:13-78
+activity#com.sevensevenlife.view.Find.InvitationCourtesyActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:113:9-115:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:114:13-83
+activity#com.sevensevenlife.view.Find.CircleOfFriendsActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:116:9-118:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:117:13-80
+activity#com.sevensevenlife.view.custumview.zxing.CaptureActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:119:9-121:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:120:13-84
+activity#com.sevensevenlife.view.Mian.MainActivityLp
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:122:9-124:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:123:13-71
+activity#com.sevensevenlife.view.custumview.LpWebActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:125:9-127:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:126:13-76
+activity#com.sevensevenlife.view.Home.PublicBicycle.BalanceActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:128:9-130:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:129:13-86
+activity#com.sevensevenlife.view.Home.PublicBicycle.BicycleHomeActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:131:9-133:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:133:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:132:13-90
+activity#com.sevensevenlife.view.Home.PublicBicycle.CarRentalActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:134:9-136:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:136:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:135:13-88
+activity#com.sevensevenlife.view.Home.PublicBicycle.FaultRepairActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:138:13-90
+activity#com.sevensevenlife.view.Home.PublicBicycle.EditUserInfoActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:141:13-91
+activity#com.sevensevenlife.view.Home.PublicBicycle.LoseCarActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:144:13-86
+activity#com.sevensevenlife.view.Mian.AdvertisementActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:148:9-87
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:148:19-84
+activity#com.sevensevenlife.view.Home.LocationAgainActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:150:9-152:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:152:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:151:13-78
+activity#com.sevensevenlife.view.User.LoginActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:153:9-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:153:19-76
+activity#com.sevensevenlife.view.User.RegisterActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:154:9-156:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:156:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:155:13-73
+activity#com.example.youxiangshenghuo.PaoTuiInfoActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:158:9-160:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:160:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:159:13-75
+activity#com.sevensevenlife.view.User.MyInfoActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:163:9-165:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:165:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:164:13-71
+activity#com.example.youxiangshenghuo.YuYueActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:167:9-169:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:169:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:168:13-70
+activity#com.sevensevenlife.view.User.SheZhiActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:171:9-173:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:173:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:172:13-71
+activity#com.sevensevenlife.view.User.ForgetPasswordActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:174:9-176:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:175:13-79
+activity#com.sevensevenlife.view.User.SuggestioinActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:177:9-179:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:178:13-76
+activity#com.sevensevenlife.view.Home.CommentListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:180:9-182:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:181:13-76
+activity#com.sevensevenlife.view.Order.PingFenActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:184:9-186:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:186:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:185:13-73
+activity#com.sevensevenlife.view.User.CollectListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:188:9-190:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:190:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:189:13-76
+activity#com.sevensevenlife.view.User.AboutOurActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:192:9-194:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:194:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:193:13-73
+activity#com.example.youxiangshenghuo.CancleOrderActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:196:9-198:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:198:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:197:13-76
+activity#com.sevensevenlife.view.custumview.WebViewInfoActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:200:9-202:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:202:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:201:13-82
+activity#com.sevensevenlife.view.Home.AppMsg.AppMsgActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:204:9-206:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:206:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:205:13-78
+activity#com.sevensevenlife.view.Home.MoreActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:208:9-210:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:210:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:209:13-69
+activity#com.example.youxiangshenghuo.DingDanInfo2Activity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:212:9-214:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:214:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:213:13-77
+activity#com.sevensevenlife.view.Home.SevenServiceActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:216:9-218:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:217:13-77
+activity#com.sevensevenlife.view.Home.MyHome.PostActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:219:9-221:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:221:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:220:13-76
+activity#com.sevensevenlife.view.Home.MyHome.BbsListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:223:9-225:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:224:13-79
+activity#com.sevensevenlife.view.Home.MyHome.BbsDetailsActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:226:9-228:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:227:13-82
+activity#com.sevensevenlife.view.custumview.ImageViewActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:229:9-231:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:230:13-80
+activity#com.sevensevenlife.view.Home.MyHome.AllCommentActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:232:9-234:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:234:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:233:13-82
+activity#com.alipay.sdk.pay.PayDemoActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:239:9-241:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:241:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:240:13-62
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:243:9-247:50
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:247:13-47
+	android:exported
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:246:13-37
+	android:configChanges
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:245:13-74
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:244:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:248:9-252:50
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:252:13-47
+	android:exported
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:251:13-37
+	android:configChanges
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:250:13-74
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:249:13-60
+activity#com.example.jpushdemo.JpushActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:256:9-72
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:256:19-69
+activity#com.sevensevenlife.view.Home.MyCommunity.CommunityHomeActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:260:9-262:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:262:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:261:13-90
+activity#com.sevensevenlife.view.Home.MyCommunity.AuthenticationActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:263:9-265:52
+	android:screenOrientation
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:265:13-49
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:264:13-91
+activity#com.sevensevenlife.view.Home.MyCommunity.CaptureActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:266:9-93
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:266:19-90
+activity#com.sevensevenlife.view.Home.MyCommunity.MyCommunityListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:267:9-101
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:267:19-98
+activity#com.sevensevenlife.view.Home.MyCommunity.OtherCommunityListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:268:9-104
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:268:19-101
+activity#com.sevensevenlife.view.Home.MyCommunity.NoticeListActivity
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:269:9-96
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:269:19-93
+receiver#com.example.jpushdemo.MyReceiver
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:273:9-286:20
+	android:enabled
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:275:13-35
+	android:exported
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:276:13-37
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:274:13-60
+intent-filter#action:name:cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+action:name:cn.jpush.android.intent.CONNECTION+action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED+action:name:cn.jpush.android.intent.REGISTRATION+category:name:com.example.youxiangshenghuo
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:277:13-285:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:278:17-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:278:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:279:17-83
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:279:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:280:17-88
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:280:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:281:17-86
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:281:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:282:17-91
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:282:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:283:17-77
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:283:25-74
+category#com.example.youxiangshenghuo
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:284:17-73
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:284:27-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:291:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:20:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:291:22-72
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:294:5-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:294:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:295:5-69
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:295:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:296:5-67
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:296:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:297:5-67
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:297:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:298:5-70
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:298:22-67
+permission#com.example.youxiangshenghuo.permission.JPUSH_MESSAGE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:300:5-302:47
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:302:9-44
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:301:9-77
+uses-permission#com.example.youxiangshenghuo.permission.JPUSH_MESSAGE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:304:5-93
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:304:22-90
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:305:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:305:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:306:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:18:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:306:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:307:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:19:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:307:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:308:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:21:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:308:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:309:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:22:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:309:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:310:5-73
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:23:5-73
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:310:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:311:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:24:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:311:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:312:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:25:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:312:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:313:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:26:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:313:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:314:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:27:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:314:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:315:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:31:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:315:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:316:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:32:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:316:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:317:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:33:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:317:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:318:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:34:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:318:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:319:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:35:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:319:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:320:5-68
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:320:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:321:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:321:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:323:5-69
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:323:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:325:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:325:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:326:5-70
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:32:5-34:36
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:326:19-67
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:330:5-72
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:330:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:333:5-73
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:333:22-70
+uses-permission-sdk-23#android.permission.WRITE_CONTACTS
+ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:335:5-80
+	android:name
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml:335:29-77
+uses-sdk
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/065af004be434fbc459e6100c1b7d349/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/065af004be434fbc459e6100c1b7d349/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/6a862c6f985eca2d861a597c1a0fa96e/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/6a862c6f985eca2d861a597c1a0fa96e/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/812167aa33997922a7ad44e5f3a52cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/812167aa33997922a7ad44e5f3a52cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/ba000bd13f64d0289b0129f81495ea2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-alpha2] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.0-alpha2.aar/ba000bd13f64d0289b0129f81495ea2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ba508de4ebc5be4531a6c3e432ab3f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ba508de4ebc5be4531a6c3e432ab3f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5e28b62925a72120f244df77a14a2c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d5e28b62925a72120f244df77a14a2c6/AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.1.aar/7fed70b0e824f9f6948802c48f5bae01/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/glide-transformations-2.0.1.aar/7fed70b0e824f9f6948802c48f5bae01/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.5.6] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/xrefreshview-3.5.6.aar/d3cfc87e9d127dd2d96125020346ec60/AndroidManifest.xml:8:5-10:41
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.5.6] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/xrefreshview-3.5.6.aar/d3cfc87e9d127dd2d96125020346ec60/AndroidManifest.xml:8:5-10:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:19:5-43
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jcore-1.1.1.aar/e1b22642c7748c23bbf1bf855c261051/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jcore-1.1.1.aar/e1b22642c7748c23bbf1bf855c261051/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/397d2ad85d1a69a29eee2bfe1ac4207e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/397d2ad85d1a69a29eee2bfe1ac4207e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e77cf3caedffc43fd5530e6aa14a6996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e77cf3caedffc43fd5530e6aa14a6996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/10ab219565910559f36cd89c650b9431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/10ab219565910559f36cd89c650b9431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/97148cf5ea91f230bf8e8da73c3e27a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/97148cf5ea91f230bf8e8da73c3e27a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dd2b1c12ec14bb87ee607ee70c3347c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dd2b1c12ec14bb87ee607ee70c3347c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/71ac7e585a6a5ccfb8a3bc7a38af0bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/71ac7e585a6a5ccfb8a3bc7a38af0bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8932b8895e2b50658572b843c1f3182e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8932b8895e2b50658572b843c1f3182e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da626f2a071e99a023324903a4e1ed5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/da626f2a071e99a023324903a4e1ed5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9603d2b1acb503e0342cf22bd33c051a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9603d2b1acb503e0342cf22bd33c051a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a8610ba2824ed52a557be645d4767cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a8610ba2824ed52a557be645d4767cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a2116792cc0a4a69a2866bccb9bdbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a2116792cc0a4a69a2866bccb9bdbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ec960d6803939e7310a71c6faabcc45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ec960d6803939e7310a71c6faabcc45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2898a7f32c6eb9f51a92b65eb911c05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2898a7f32c6eb9f51a92b65eb911c05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b52284d7d8350cd8733e3becef0c9c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b52284d7d8350cd8733e3becef0c9c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/693377b275fab0d317483fd304b18fe2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1df34c6aab034336dc0f86cebfceb3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1df34c6aab034336dc0f86cebfceb3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/71f2d9d2bbc1e649fb19e757891dd2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/71f2d9d2bbc1e649fb19e757891dd2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c6ef573d04e288d6d5f5312ee00712b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c6ef573d04e288d6d5f5312ee00712b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dfda95da83f2f9dc8e3381bb39eee802/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/dfda95da83f2f9dc8e3381bb39eee802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6fdb1145622912f4f081038c866a30ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6fdb1145622912f4f081038c866a30ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98c3224c99183200e326b46c2d27f64f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/98c3224c99183200e326b46c2d27f64f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/96a03fba8fcbff88a707f2ee1aeacde8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/96a03fba8fcbff88a707f2ee1aeacde8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c334d85f3c55d5636ebf50a862bec61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c334d85f3c55d5636ebf50a862bec61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd6baf104d31af5acf3e5e49ebd547da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd6baf104d31af5acf3e5e49ebd547da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3295fbad3285842660bf0d53828747ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3295fbad3285842660bf0d53828747ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9903815a914c5c636d14e00598dcc39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e9903815a914c5c636d14e00598dcc39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6c20e066de2e6edca5796d2836c423c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6c20e066de2e6edca5796d2836c423c9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lipeng/Desktop/GitHub/sevensevenlife/app/src/main/AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.4.0.aar/5a0f1fd48fb544ee123288f8739958f0/AndroidManifest.xml:13:13-84
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.3.0.aar/d22b062ed072c8574c80f12ac81e74aa/AndroidManifest.xml:47:13-74
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:11:5-13:47
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+MERGED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:16:5-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:30:22-75
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:41:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:47:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:51:13-56:29
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:android.intent.category.DEFAULT+category:name:com.example.youxiangshenghuo
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:51:13-56:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:52:25-72
+category#android.intent.category.DEFAULT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:54:27-73
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:55:27-58
+service#cn.jpush.android.service.DownloadService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:59:9-62:40
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:60:13-68
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:81:9-90:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:82:13-66
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:85:13-89:29
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:com.example.youxiangshenghuo
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:85:13-89:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:86:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:86:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:93:9-113:20
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:97:13-40
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:95:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:94:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:98:13-101:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:98:28-51
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:com.example.youxiangshenghuo
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:98:13-101:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:98:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:99:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:99:25-91
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:102:13-105:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:103:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:104:17-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:104:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:107:13-112:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:108:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:108:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:109:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:109:25-77
+data
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:111:17-50
+	android:scheme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:111:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:116:9-118:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:117:13-66
+meta-data#JPUSH_CHANNEL
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:121:9-123:48
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:122:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:124:9-126:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:126:13-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.3] /Users/lipeng/.gradle/caches/transforms-1/files-1.1/jpush-3.0.3.aar/7f6a93a007c47b87495d0c19681e4952/AndroidManifest.xml:125:13-40
