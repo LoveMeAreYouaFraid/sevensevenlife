@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId 'com.example.youxiangshenghuo'
-        minSdkVersion 14
+        minSdkVersion 19
         targetSdkVersion 28
         versionName '2.7.0'
 
@@ -25,7 +25,7 @@ android {
 //            storeFile file('C:/Users/Administrator/Desktop/v2.5.2/debug.keystoree')
             keyAlias 'androiddebugkey'
             keyPassword 'android'
-            storeFile file('/Users/lipeng/Desktop/GitHub/sevensevenlife/debug.keystore')
+//            storeFile file('/Users/lipeng/Desktop/GitHub/sevensevenlife/debug.keystore')
             storePassword 'android'
         }
     }
